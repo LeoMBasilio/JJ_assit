@@ -1,0 +1,16 @@
+{
+    "LoginEmail": {
+        "email": "email que deve ser monitorado",
+        "password": "token de senha do email"
+    },
+    "ChatTelegraAuth":{
+        "token": "token do bot do telegram",
+        "chatId": "id do chat do telegram"
+    },
+    "DataBase":{
+        "host": "host",
+        "user": "user",
+        "password": "senha",
+        "database": "banco"
+    }
+}
